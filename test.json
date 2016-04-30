@@ -1,0 +1,11 @@
+{
+  "bitly": {
+    "username":"bitly_username",
+    "password":"bitly_password",
+    "access_token":"bitly_access_token"
+  },
+  "toggl": {
+    "workspace_id":"toggle_workspace_id",
+    "api_token":"toggle_api_token"
+  }
+}
